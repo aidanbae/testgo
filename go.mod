@@ -1,1 +1,1 @@
-module github.com/aidanbae/testgo
+module github.com/aidanbae/testgo/v2
